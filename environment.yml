@@ -30,4 +30,4 @@ dependencies:
   - matplotlib=3.2.2
   - pip
   - pandas
-prefix: /Users/mac/anaconda3/envs/DataViz
+
